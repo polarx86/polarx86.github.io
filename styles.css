@@ -1,4 +1,3 @@
-/* Estilos generales del body */
 body {
     background-color: #151515;
     color: #ccc;
@@ -18,8 +17,8 @@ body {
     width: 90%;
     max-width: 1200px;
     height: 900px;
-    border-radius: 8px; /* Bordes redondeados para un estilo más moderno */
-    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); /* Sombra para un efecto de profundidad */
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
 }
 
 .terminal, pre {
@@ -36,13 +35,12 @@ body {
     font-weight: bold;
 }
 
-/* Estilos para la descripción */
 .descricao {
     margin-top: 40px;
     font-weight: bold;
     text-align: center;
-    padding-bottom: 20px; /* Reducido para una apariencia más equilibrada */
-    color: #888; /* Color gris para un contraste más suave */
+    padding-bottom: 20px; 
+    color: #888; 
 
 }
 
