@@ -19,6 +19,7 @@ body {
     height: 900px;
     border-radius: 8px; 
     box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+
 }
 
 .terminal, pre {
@@ -53,6 +54,7 @@ body {
     text-align: left;
     font-weight: normal;
     margin-bottom: 5px;
+    margin-right: 100px;
 
 }
 
@@ -65,7 +67,6 @@ body {
 .terminal-content a:hover {
     text-decoration: underline; 
 }
-
 
 hr {
     border: 0;
